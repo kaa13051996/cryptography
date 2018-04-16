@@ -1,0 +1,27 @@
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\bin\Release\Hill.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\bin\Release\Hill.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\bin\Release\Hill.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Release\Hill.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Release\Hill.Form1.resources
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Release\Hill.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Release\Hill.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Release\Hill.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Release\Hill.pdb
+D:\Hill rec\Hill\bin\Release\Hill.exe.config
+D:\Hill rec\Hill\obj\Release\Hill.exe
+D:\Hill rec\Hill\obj\Release\Hill.pdb
+D:\Hill rec\Hill\bin\Release\Hill.exe
+D:\Hill rec\Hill\bin\Release\Hill.pdb
+D:\Hill rec\Hill\obj\Release\Hill.csprojResolveAssemblyReference.cache
+D:\Hill rec\Hill\obj\Release\Hill.Form1.resources
+D:\Hill rec\Hill\obj\Release\Hill.Properties.Resources.resources
+D:\Hill rec\Hill\obj\Release\Hill.csproj.GenerateResource.Cache
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\bin\Release\Hill.exe.config
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\obj\Release\Hill.exe
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\obj\Release\Hill.pdb
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\bin\Release\Hill.exe
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\bin\Release\Hill.pdb
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\obj\Release\Hill.csprojResolveAssemblyReference.cache
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\obj\Release\Hill.Form1.resources
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\obj\Release\Hill.Properties.Resources.resources
+C:\Users\Печенька\Desktop\универ\КМЗИ\Хилл\Hill rec\Hill\obj\Release\Hill.csproj.GenerateResource.Cache

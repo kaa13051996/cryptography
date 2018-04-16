@@ -1,0 +1,9 @@
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\bin\Debug\КМЗИ_1.exe.config
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\bin\Debug\КМЗИ_1.exe
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\bin\Debug\КМЗИ_1.pdb
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\obj\Debug\КМЗИ_1.csprojResolveAssemblyReference.cache
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\obj\Debug\КМЗИ_1.Properties.Resources.resources
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\obj\Debug\КМЗИ_1.csproj.GenerateResource.Cache
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\obj\Debug\КМЗИ_1.exe
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\obj\Debug\КМЗИ_1.pdb
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\КМЗИ_1\КМЗИ_1\obj\Debug\КМЗИ_1.КМЗИ.resources

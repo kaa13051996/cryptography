@@ -1,0 +1,12 @@
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\bin\Debug\РСА.exe.config
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\obj\Debug\РСА.csprojResolveAssemblyReference.cache
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\obj\Debug\РСА.Form1.resources
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\obj\Debug\РСА.Properties.Resources.resources
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\obj\Debug\РСА.csproj.GenerateResource.Cache
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\bin\Debug\РСА.exe
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\bin\Debug\РСА.pdb
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\obj\Debug\РСА.exe
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\РСА\РСА\obj\Debug\РСА.pdb
+E:\ТУСУР\(КМЗИ) криптографические методы защиты информации\4 лаб\РСА\РСА\bin\Debug\РСА.exe.config
+E:\ТУСУР\(КМЗИ) криптографические методы защиты информации\4 лаб\РСА\РСА\obj\Debug\РСА.exe
+E:\ТУСУР\(КМЗИ) криптографические методы защиты информации\4 лаб\РСА\РСА\obj\Debug\РСА.pdb

@@ -1,0 +1,18 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\bin\Debug\Hill.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\bin\Debug\Hill.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\bin\Debug\Hill.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\obj\Debug\Hill.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\obj\Debug\Hill.Form1.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\obj\Debug\Hill.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\obj\Debug\Hill.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\obj\Debug\Hill.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\Hill\Hill\obj\Debug\Hill.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\bin\Debug\Hill.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Debug\Hill.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Debug\Hill.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\bin\Debug\Hill.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\bin\Debug\Hill.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Debug\Hill.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Debug\Hill.Form1.resources
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Debug\Hill.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Hill rec\Hill\obj\Debug\Hill.csproj.GenerateResource.Cache
